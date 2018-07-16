@@ -5,5 +5,5 @@ Judge the person's sex, boy or girl??
 Naive Bayes
 
 ### reference
-・https://coreblog.org/ats/stuff/minpy_support/samplecodes04/
+・https://coreblog.org/ats/stuff/minpy_support/samplecodes04/ </br>
 ・https://qiita.com/RINDO/items/fe4c32eddc3ed880433b
