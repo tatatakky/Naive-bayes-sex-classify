@@ -9,7 +9,7 @@ Judge the person's sex, boy or girl??
 
 ## Installation
 ```
-$ git clone github.com/tatatakky/Naive-bayes-sex-classify.git
+$ git clone https://github.com/tatatakky/Naive-bayes-sex-classify.git
 ```
 
 ## Usage
